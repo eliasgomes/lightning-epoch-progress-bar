@@ -1,0 +1,8 @@
+{
+  "config": {
+    "line-length": false,
+    "no-duplicate-heading": { "siblings_only": true }
+  },
+  "globs": ["**/*.md"],
+  "ignores": [".venv/**", ".ruff_cache/**", ".mypy_cache/**", ".pytest_cache/**"]
+}
